@@ -46,5 +46,10 @@ namespace Tela_de_Login
 
             // esse codigo foi gerado quando eu criei o método "novoFor "throw new NotImplementedException();
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
