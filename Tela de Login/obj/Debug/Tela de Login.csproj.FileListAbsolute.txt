@@ -1,0 +1,11 @@
+C:\MeusProgramasC#\Tela de Login\bin\Debug\Tela de Login.exe.config
+C:\MeusProgramasC#\Tela de Login\bin\Debug\Tela de Login.exe
+C:\MeusProgramasC#\Tela de Login\bin\Debug\Tela de Login.pdb
+C:\MeusProgramasC#\Tela de Login\obj\Debug\Tela de Login.csprojAssemblyReference.cache
+C:\MeusProgramasC#\Tela de Login\obj\Debug\Tela_de_Login.Form1.resources
+C:\MeusProgramasC#\Tela de Login\obj\Debug\Tela_de_Login.Properties.Resources.resources
+C:\MeusProgramasC#\Tela de Login\obj\Debug\Tela de Login.csproj.GenerateResource.cache
+C:\MeusProgramasC#\Tela de Login\obj\Debug\Tela de Login.csproj.CoreCompileInputs.cache
+C:\MeusProgramasC#\Tela de Login\obj\Debug\Tela de Login.exe
+C:\MeusProgramasC#\Tela de Login\obj\Debug\Tela de Login.pdb
+C:\MeusProgramasC#\Tela de Login\obj\Debug\Tela_de_Login.Form2.resources
